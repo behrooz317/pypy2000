@@ -1,6 +1,6 @@
 # Logs
 logs
-*.log
+*.log3
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -20,7 +20,7 @@ lib-cov
 
 # Coverage directory used by tools like istanbul
 coverage
-*.1cov-log
+*.1cov
 
 # nyc test coverage
 .nyc_output
