@@ -113,7 +113,7 @@ pycache
 # backwards compatibility for past contributors
 .husky
 .1cow/
-
+relase/
 # VSCode
 .vscode/launch.json
 packages/protocol/config.js
