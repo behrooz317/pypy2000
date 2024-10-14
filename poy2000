@@ -21,7 +21,7 @@ lib-
 # Coverage directory used by tools like istanbul
 coverage
 *.1cov
-
+*pid*
 # nyc test coverage
 .nyc_output
 
